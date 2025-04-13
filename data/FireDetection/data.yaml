@@ -1,6 +1,6 @@
-train: FireDetection/train/images
-val: FireDetection/valid/images
-test: FireDetection/test/images
+train: train/images
+val: val/images
+test: test/images
 
 nc: 1
 names: ['fire']
