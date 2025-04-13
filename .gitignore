@@ -1,1 +1,4 @@
-data/*/train
+data/*/*
+data/*
+!data/*/data.yaml
+!data/*/README*
